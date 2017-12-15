@@ -1,0 +1,7 @@
+<one-to-one name="user" constrained="true" />
+<!-- <id name="email" >
+    <generator class="CartItem" >
+        <param name="property" >user</param>
+    </generator>
+</id> -->
+
